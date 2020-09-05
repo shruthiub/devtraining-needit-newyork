@@ -3,46 +3,46 @@
         <active>true</active>
         <benchmarking>false</benchmarking>
         <business_calendar/>
-        <collect>scores</collect>
+        <collect>scores_text</collect>
         <condition/>
         <conditional>false</conditional>
-        <description>Data Collector for NeedIt Historical data. Collects 6 months of data including the current month.</description>
+        <description/>
         <entered_time/>
         <kill_job>false</kill_job>
-        <name>NeedIt Historical Data</name>
+        <name>temporary job for collecting NeedIt Requested For</name>
         <offset/>
-        <offset_type/>
+        <offset_type>0</offset_type>
         <run_as display_value="Shruthi U B">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
-        <run_dayofweek>1</run_dayofweek>
+        <run_dayofweek/>
         <run_period/>
-        <run_start>2020-03-27 07:58:57</run_start>
-        <run_time>1969-12-31 18:30:00</run_time>
-        <run_type>on_demand</run_type>
+        <run_start>2020-08-24 05:43:45</run_start>
+        <run_time/>
+        <run_type>once</run_type>
         <score_fixed_end>00000000</score_fixed_end>
         <score_fixed_start>00000000</score_fixed_start>
         <score_operator>relative</score_operator>
         <score_relative_end>1</score_relative_end>
         <score_relative_end_interval>days</score_relative_end_interval>
-        <score_relative_start>6</score_relative_start>
-        <score_relative_start_interval>months</score_relative_start_interval>
+        <score_relative_start>90</score_relative_start>
+        <score_relative_start_interval>days</score_relative_start_interval>
         <sys_class_name>sysauto_pa</sys_class_name>
-        <sys_created_by>ub75</sys_created_by>
-        <sys_created_on>2020-03-27 07:59:51</sys_created_on>
+        <sys_created_by>shruthi75</sys_created_by>
+        <sys_created_on>2020-08-24 05:43:45</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2228c875dbb30010187017803996192a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>NeedIt Historical Data</sys_name>
+        <sys_id>6cb7804adb72101018701780399619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>temporary job for collecting NeedIt Requested For</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sysauto_pa_2228c875dbb30010187017803996192a</sys_update_name>
+        <sys_update_name>sysauto_pa_6cb7804adb72101018701780399619a3</sys_update_name>
         <sys_updated_by>shruthi75</sys_updated_by>
-        <sys_updated_on>2020-08-24 06:05:58</sys_updated_on>
+        <sys_updated_on>2020-08-24 05:43:45</sys_updated_on>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_pa>
-    <sys_translated_text action="delete_multiple" query="documentkey=2228c875dbb30010187017803996192a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=6cb7804adb72101018701780399619a3"/>
 </record_update>
